@@ -9,8 +9,8 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/RaspberryPi-Dark.svg" width="40" height="40"/> 
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" height="40"/>
 <div/>
