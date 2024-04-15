@@ -1,4 +1,4 @@
-<h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗧𝗵𝗲𝗿𝗲 ;)</h1>
+<h1 align="center">Sup</h1>
 <p align="center"> 
   <img src="https://64.media.tumblr.com/27e1d1a8b8e2c802c6b16aed02ebd4eb/af54210e8467a468-6b/s1280x1920/da77e6991d5aea80f0a474a41e93991d0f01b190.gif" alt="Banner">
 </p>
